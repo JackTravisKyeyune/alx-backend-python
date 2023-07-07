@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+'''Task 6's module.
+'''
 sk 6's module.
 '''
 from typing import List, Union
