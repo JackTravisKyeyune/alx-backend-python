@@ -1,4 +1,5 @@
-sk 10's module.
+#!/usr/bin/env python3
+'''Task 10's module.
 '''
 from typing import Any, Sequence, Union
 
